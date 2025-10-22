@@ -1,0 +1,10 @@
+﻿__pycache__/
+*.pyc
+.env
+.env.*
+.venv/
+venv/
+# Audio artifacts
+*.wav
+*.mp3
+*.flac
